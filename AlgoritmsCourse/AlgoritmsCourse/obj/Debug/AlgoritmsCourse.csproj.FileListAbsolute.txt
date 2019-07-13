@@ -1,0 +1,6 @@
+C:\AlgoritmsCourse\AlgoritmsCourse\AlgoritmsCourse\bin\Debug\AlgoritmsCourse.exe.config
+C:\AlgoritmsCourse\AlgoritmsCourse\AlgoritmsCourse\bin\Debug\AlgoritmsCourse.exe
+C:\AlgoritmsCourse\AlgoritmsCourse\AlgoritmsCourse\bin\Debug\AlgoritmsCourse.pdb
+C:\AlgoritmsCourse\AlgoritmsCourse\AlgoritmsCourse\obj\Debug\AlgoritmsCourse.csprojResolveAssemblyReference.cache
+C:\AlgoritmsCourse\AlgoritmsCourse\AlgoritmsCourse\obj\Debug\AlgoritmsCourse.exe
+C:\AlgoritmsCourse\AlgoritmsCourse\AlgoritmsCourse\obj\Debug\AlgoritmsCourse.pdb
